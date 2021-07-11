@@ -1,0 +1,27 @@
+## folders
+
+# dependencies
+node_modules/
+experiments/
+
+# testing
+coverage/
+
+# production
+build/
+
+
+## files
+.DS_Store
+.env
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
+
+
+## my notes
+*.txt
