@@ -8,5 +8,6 @@ Let's continue our introduction to React. First, we will take a look at how to r
 
 ## Exercises
 
-- [course info](./courseinfo)
+- [Course info](./courseinfo)
 - [Data for countries](./dataforcountries)
+- [Phonebook](./phonebook)
