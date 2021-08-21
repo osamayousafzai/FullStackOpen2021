@@ -1,0 +1,5 @@
+## Ignore folder
+build
+
+## Ignore files
+mongo.js
