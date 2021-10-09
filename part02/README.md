@@ -1,6 +1,6 @@
 # Deep Dive Into Modern Web Development
 
-# Full Stack Open 2020
+# Full Stack Open 2021
 
 ## Part 02 - Communicating with server
 
